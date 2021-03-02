@@ -247,12 +247,14 @@ a {
 }
 
 .work-container{
-	position: relative;
+  position: relative;
   width: 100%;
   max-width: 960px;
   margin: 0 auto;
   padding: 0 20px;
 }
+
+
 
 
 /***MEDIA QUERIES**/
