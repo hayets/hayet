@@ -319,6 +319,7 @@ button,
 
 .col-work {
   max-width: 250px;
+  width: auto;
 
 }
 
